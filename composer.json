@@ -1,13 +1,13 @@
 {
-    "name": "cxp/laravel-avatar",
-    "description": "laravel avatar",
+    "name": "mhz-cxp/laravel-avatar",
+    "description": "mhz-cxplaravel avatar",
     "type": "library",
     "require": {
         "php": ">=7.4"
     },
     "authors": [
         {
-            "name": "John Smith",
+            "name": "mhz",
             "email": "363227769@QQ.com"
         }
     ],
