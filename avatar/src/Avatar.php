@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: mac
- * Date: 2019-01-10
- * Time: 14:06
- */
 namespace Cxp\Avatar;
 use Illuminate\Config\Repository;
 class Avatar {
